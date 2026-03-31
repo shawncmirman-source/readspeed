@@ -1,5 +1,4 @@
-Gemini said
-ReadSpeed
+
 ReadSpeed is a minimalist, web-based speed reading tool designed to help you consume text faster and more efficiently. By utilizing Rapid Serial Visual Presentation (RSVP), ReadSpeed eliminates the time-consuming process of moving your eyes across a page, allowing you to focus on one word at a time at a pace that suits your cognitive processing speed.
 
 How It Works
